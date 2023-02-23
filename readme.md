@@ -29,6 +29,19 @@ Show
 ![](https://i.imgur.com/LuATaG3.png)
 
 
+## Routes
+
+|Routes        | Element         |
+|:-------------|:----------------|
+|/             | Home            |
+|/project      | Index           |
+|/project/:id  | Show            |
+|/project/create| Create         |
+|/project/update/:id | Update    |
+|/project/delete/:id | Delete    |
+
+#
+
 | Day | Goal |
 |-----|------|
 |2/21   | Make Wireframe & Backend |
@@ -42,3 +55,5 @@ Show
 
 # Links
 [Github backend](https://github.com/vfuertez/Project-4_backend)
+
+
